@@ -1,1 +1,0 @@
-export { fabric } from "fabric";
