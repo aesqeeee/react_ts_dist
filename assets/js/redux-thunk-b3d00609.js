@@ -1,1 +1,0 @@
-function t(t){return function(n){var r=n.dispatch,u=n.getState;return function(n){return function(e){return"function"==typeof e?e(r,u,t):n(e)}}}}var n=t();n.withExtraArgument=t;const r=n;export{r as t};
