@@ -1,1 +1,0 @@
-import{r as s,j as a}from"./react-32c7b601.js";import"./@babel-7994ac7b.js";const e=s.memo((s=>a.jsx("div",{className:"ThemePage",children:a.jsx("i",{className:"iconfont icon-zhuti"})})));export{e as default};
